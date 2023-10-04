@@ -1,0 +1,13 @@
+exceptions=Descargas.rar
+videos=.mp4,.mkv,.avi,.mov,.flv,.wmv
+images=.jpg,.jpeg,.png,.gif,.bmp,.tiff
+documents=.pdf,.doc,.docx,.ppt,.pptx,.xls,.xlsx
+compressed_files=.zip,.rar,.tar,.gz,.7z
+audio=.mp3,.wav,.flac,.ogg,.m4a
+programs=.exe,.msi
+code=.py,.java,.cpp,.html,.css,.js
+presentations=.ppt,.pptx
+spreadsheets=.xls,.xlsx
+text_documents=.doc,.docx,.txt
+data_files=.csv,.json,.xml
+torrents=.torrent

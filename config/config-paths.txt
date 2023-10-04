@@ -1,0 +1,3 @@
+test=F:\Programas\Automatic1111_2\stable-diffusion-webui\models\Lora\test
+downloads=C:\Users\josec_oyj1y1p\Downloads\Descargas
+default_downloads=C:\Users\josec_oyj1y1p\Downloads

@@ -1,0 +1,6 @@
+start - Permite iniciar programas en la computadora del usuario desde una lista predefinida (/start list).
+dice - Lanza un dado y devuelve el resultado.
+shutdown - Apaga la computadora del usuario.
+download - Descarga los archivos correspondientes a las URLs proporcionadas.
+send_screenshot - Hace una captura de las pantallas y las envia.
+command - (Actualmente sin funcion)
